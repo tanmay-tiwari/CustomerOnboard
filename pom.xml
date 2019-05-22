@@ -23,7 +23,7 @@
         </configuration>
       </plugin>
     </plugins>
-   <finalName>CustomerOnboard</finalName>
+   <finalName>CO1</finalName>
   </build>
   <dependencies>
   	<dependency>
